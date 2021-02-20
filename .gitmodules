@@ -1,450 +1,450 @@
 [submodule "ableton-live"]
 	path = ableton-live
-	url = git@github.com:dracula/ableton-live
+	url = git://github.com/dracula/ableton-live.git
 [submodule "adobe"]
 	path = adobe
-	url = git@github.com:dracula/adobe
+	url = git://github.com/dracula/adobe.git
 [submodule "alacritty"]
 	path = alacritty
-	url = https://github.com/dracula/alacritty
+	url = git://github.com/dracula/alacritty.git
 [submodule "alfred"]
 	path = alfred
-	url = https://github.com/dracula/alfred
+	url = git://github.com/dracula/alfred.git
 [submodule "arduino-ide"]
 	path = arduino-ide
-	url = https://github.com/dracula/arduino-ide
+	url = git://github.com/dracula/arduino-ide.git
 [submodule "aseprite"]
 	path = aseprite
-	url = git@github.com:dracula/aseprite
+	url = git://github.com/dracula/aseprite.git
 [submodule "atom"]
 	path = atom
-	url = https://github.com/dracula/atom
+	url = git://github.com/dracula/atom.git
 [submodule "b4x"]
 	path = b4x
-	url = git@github.com:dracula/b4x
+	url = git://github.com/dracula/b4x.git
 [submodule "base16"]
 	path = base16
-	url = https://github.com/dracula/base16
+	url = git://github.com/dracula/base16.git
 [submodule "bbedit"]
 	path = bbedit
-	url = https://github.com/dracula/bbedit
+	url = git://github.com/dracula/bbedit.git
 [submodule "blender"]
 	path = blender
-	url = https://github.com/dracula/blender
+	url = git://github.com/dracula/blender.git
 [submodule "brackets"]
 	path = brackets
-	url = https://github.com/dracula/brackets
+	url = git://github.com/dracula/brackets.git
 [submodule "bspwm"]
 	path = bspwm
-	url = git@github.com:dracula/bspwm
+	url = git://github.com/dracula/bspwm.git
 [submodule "chrome-devtools"]
 	path = chrome-devtools
-	url = https://github.com/dracula/chrome-devtools
+	url = git://github.com/dracula/chrome-devtools.git
 [submodule "cmder"]
 	path = cmder
-	url = https://github.com/dracula/cmder
+	url = git://github.com/dracula/cmder.git
 [submodule "coda"]
 	path = coda
-	url = https://github.com/dracula/coda
+	url = git://github.com/dracula/coda.git
 [submodule "conemu"]
 	path = conemu
-	url = https://github.com/dracula/conemu
+	url = git://github.com/dracula/conemu.git
 [submodule "coteditor"]
 	path = coteditor
-	url = https://github.com/dracula/coteditor
+	url = git://github.com/dracula/coteditor.git
 [submodule "couscous"]
 	path = couscous
-	url = https://github.com/dracula/couscous
+	url = git://github.com/dracula/couscous.git
 [submodule "discourse"]
 	path = discourse
-	url = git@github.com:dracula/discourse
+	url = git://github.com/dracula/discourse.git
 [submodule "doom-emacs"]
 	path = doom-emacs
-	url = git@github.com:dracula/doom-emacs
+	url = git://github.com/dracula/doom-emacs.git
 [submodule "duckduckgo"]
 	path = duckduckgo
-	url = https://github.com/dracula/duckduckgo
+	url = git://github.com/dracula/duckduckgo.git
 [submodule "eclipse"]
 	path = eclipse
-	url = git@github.com:dracula/eclipse
+	url = git://github.com/dracula/eclipse.git
 [submodule "editplus"]
 	path = editplus
-	url = https://github.com/dracula/editplus
+	url = git://github.com/dracula/editplus.git
 [submodule "emacs"]
 	path = emacs
-	url = https://github.com/dracula/emacs
+	url = git://github.com/dracula/emacs.git
 [submodule "fb-messenger"]
 	path = fb-messenger
-	url = https://github.com/dracula/fb-messenger
+	url = git://github.com/dracula/fb-messenger.git
 [submodule "figma"]
 	path = figma
-	url = git@github.com:dracula/figma
+	url = git://github.com/dracula/figma.git
 [submodule "fish"]
 	path = fish
-	url = https://github.com/dracula/fish
+	url = git://github.com/dracula/fish.git
 [submodule "gamemaker-studio"]
 	path = gamemaker-studio
-	url = https://github.com/dracula/gamemaker-studio
+	url = git://github.com/dracula/gamemaker-studio.git
 [submodule "geany"]
 	path = geany
-	url = https://github.com/dracula/geany
+	url = git://github.com/dracula/geany.git
 [submodule "gedit"]
 	path = gedit
-	url = https://github.com/dracula/gedit
+	url = git://github.com/dracula/gedit.git
 [submodule "gh-pages"]
 	path = gh-pages
-	url = https://github.com/dracula/gh-pages
-[submodule "gitk"]
-	path = gitk
-	url = https://github.com/dracula/gitk
+	url = git://github.com/dracula/gh-pages.git
+[submodule "gitk"].git
+	path = gitk.git
+	url = git://github.com/dracula/gitk.git
 [submodule "gmk"]
 	path = gmk
-	url = https://github.com/dracula/gmk
+	url = git://github.com/dracula/gmk.git
 [submodule "gnome-terminal"]
 	path = gnome-terminal
-	url = https://github.com/dracula/gnome-terminal
+	url = git://github.com/dracula/gnome-terminal.git
 [submodule "godot"]
 	path = godot
-	url = git@github.com:dracula/godot
+	url = git://github.com/dracula/godot.git
 [submodule "gtk"]
 	path = gtk
-	url = git@github.com:dracula/gtk
+	url = git://github.com/dracula/gtk.git
 [submodule "highlightjs"]
 	path = highlightjs
-	url = https://github.com/dracula/highlightjs
+	url = git://github.com/dracula/highlightjs.git
 [submodule "hyper"]
 	path = hyper
-	url = https://github.com/dracula/hyper
+	url = git://github.com/dracula/hyper.git
 [submodule "i3"]
 	path = i3
-	url = https://github.com/dracula/i3
+	url = git://github.com/dracula/i3.git
 [submodule "insomnia"]
 	path = insomnia
-	url = https://github.com/dracula/insomnia
+	url = git://github.com/dracula/insomnia.git
 [submodule "iterm"]
 	path = iterm
-	url = https://github.com/dracula/iterm
+	url = git://github.com/dracula/iterm.git
 [submodule "javadoc"]
 	path = javadoc
-	url = git@github.com:dracula/javadoc
+	url = git://github.com/dracula/javadoc.git
 [submodule "jetbrains"]
 	path = jetbrains
-	url = https://github.com/dracula/jetbrains
+	url = git://github.com/dracula/jetbrains.git
 [submodule "jgrasp"]
 	path = jgrasp
-	url = https://github.com/dracula/jgrasp
+	url = git://github.com/dracula/jgrasp.git
 [submodule "kakoune"]
 	path = kakoune
-	url = git@github.com:dracula/kakoune
+	url = git://github.com/dracula/kakoune.git
 [submodule "kate"]
 	path = kate
-	url = https://github.com/dracula/kate
+	url = git://github.com/dracula/kate.git
 [submodule "kitty"]
 	path = kitty
-	url = https://github.com/dracula/kitty
+	url = git://github.com/dracula/kitty.git
 [submodule "konsole"]
 	path = konsole
-	url = https://github.com/dracula/konsole
+	url = git://github.com/dracula/konsole.git
 [submodule "light-table"]
 	path = light-table
-	url = https://github.com/dracula/light-table
+	url = git://github.com/dracula/light-table.git
 [submodule "lightpaper"]
 	path = lightpaper
-	url = https://github.com/dracula/lightpaper
+	url = git://github.com/dracula/lightpaper.git
 [submodule "limechat"]
 	path = limechat
-	url = https://github.com/dracula/limechat
+	url = git://github.com/dracula/limechat.git
 [submodule "macdown"]
 	path = macdown
-	url = https://github.com/dracula/macdown
+	url = git://github.com/dracula/macdown.git
 [submodule "mailspring"]
 	path = mailspring
-	url = git@github.com:dracula/mailspring
+	url = git://github.com/dracula/mailspring.git
 [submodule "marp"]
 	path = marp
-	url = git@github.com:dracula/marp
+	url = git://github.com/dracula/marp.git
 [submodule "matlab"]
 	path = matlab
-	url = git@github.com:dracula/matlab
+	url = git://github.com/dracula/matlab.git
 [submodule "mattermost"]
 	path = mattermost
-	url = https://github.com/dracula/mattermost
+	url = git://github.com/dracula/mattermost.git
 [submodule "mindnode"]
 	path = mindnode
-	url = https://github.com/dracula/mindnode
+	url = git://github.com/dracula/mindnode.git
 [submodule "mintty"]
 	path = mintty
-	url = https://github.com/dracula/mintty
+	url = git://github.com/dracula/mintty.git
 [submodule "mobaxterm"]
 	path = mobaxterm
-	url = https://github.com/dracula/mobaxterm
+	url = git://github.com/dracula/mobaxterm.git
 [submodule "monodevelop"]
 	path = monodevelop
-	url = https://github.com/dracula/monodevelop
+	url = git://github.com/dracula/monodevelop.git
 [submodule "musicbee"]
 	path = musicbee
-	url = git@github.com:dracula/musicbee
+	url = git://github.com/dracula/musicbee.git
 [submodule "mutt"]
 	path = mutt
-	url = https://github.com/dracula/mutt
+	url = git://github.com/dracula/mutt.git
 [submodule "notepad-plus-plus"]
 	path = notepad-plus-plus
-	url = https://github.com/dracula/notepad-plus-plus
+	url = git://github.com/dracula/notepad-plus-plus.git
 [submodule "nylas-n1"]
 	path = nylas-n1
-	url = https://github.com/dracula/nylas-n1
+	url = git://github.com/dracula/nylas-n1.git
 [submodule "powershell"]
 	path = powershell
-	url = https://github.com/dracula/powershell
+	url = git://github.com/dracula/powershell.git
 [submodule "prism"]
 	path = prism
-	url = https://github.com/dracula/prism
+	url = git://github.com/dracula/prism.git
 [submodule "pygments"]
 	path = pygments
-	url = https://github.com/dracula/pygments
+	url = git://github.com/dracula/pygments.git
 [submodule "pythonista"]
 	path = pythonista
-	url = https://github.com/dracula/pythonista
+	url = git://github.com/dracula/pythonista.git
 [submodule "qtcreator"]
 	path = qtcreator
-	url = https://github.com/dracula/qtcreator
+	url = git://github.com/dracula/qtcreator.git
 [submodule "quassel"]
 	path = quassel
-	url = https://github.com/dracula/quassel
+	url = git://github.com/dracula/quassel.git
 [submodule "quiver"]
 	path = quiver
-	url = https://github.com/dracula/quiver
+	url = git://github.com/dracula/quiver.git
 [submodule "react-devtools"]
 	path = react-devtools
-	url = https://github.com/dracula/react-devtools
+	url = git://github.com/dracula/react-devtools.git
 [submodule "sketch"]
 	path = sketch
-	url = git@github.com:dracula/sketch
+	url = git://github.com/dracula/sketch.git
 [submodule "sequel-pro"]
 	path = sequel-pro
-	url = https://github.com/dracula/sequel-pro
+	url = git://github.com/dracula/sequel-pro.git
 [submodule "slack"]
 	path = slack
-	url = https://github.com/dracula/slack
+	url = git://github.com/dracula/slack.git
 [submodule "spacemacs"]
 	path = spacemacs
-	url = git@github.com:dracula/spacemacs
+	url = git://github.com/dracula/spacemacs.git
 [submodule "sql-developer"]
 	path = sql-developer
-	url = https://github.com/dracula/sql-developer
+	url = git://github.com/dracula/sql-developer.git
 [submodule "steam"]
 	path = steam
-	url = https://github.com/dracula/steam
+	url = git://github.com/dracula/steam.git
 [submodule "sublime"]
 	path = sublime
-	url = https://github.com/dracula/sublime
+	url = git://github.com/dracula/sublime.git
 [submodule "tabletop-simulator"]
 	path = tabletop-simulator
-	url = git@github.com:dracula/tabletop-simulator
+	url = git://github.com/dracula/tabletop-simulator.git
 [submodule "telegram"]
 	path = telegram
-	url = https://github.com/dracula/telegram
+	url = git://github.com/dracula/telegram.git
 [submodule "telegram-android"]
 	path = telegram-android
-	url = https://github.com/dracula/telegram-android
+	url = git://github.com/dracula/telegram-android.git
 [submodule "terminal-app"]
 	path = terminal-app
-	url = https://github.com/dracula/terminal.app
+	url = git://github.com/dracula/terminal.app.git
 [submodule "termite"]
 	path = termite
-	url = https://github.com/dracula/termite
+	url = git://github.com/dracula/termite.git
 [submodule "termux"]
 	path = termux
-	url = https://github.com/dracula/termux
+	url = git://github.com/dracula/termux.git
 [submodule "textmate"]
 	path = textmate
-	url = https://github.com/dracula/textmate
+	url = git://github.com/dracula/textmate.git
 [submodule "textual"]
 	path = textual
-	url = https://github.com/dracula/textual
+	url = git://github.com/dracula/textual.git
 [submodule "thonny"]
 	path = thonny
-	url = git@github.com:dracula/thonny
+	url = git://github.com/dracula/thonny.git
 [submodule "tilix"]
 	path = tilix
-	url = https://github.com/dracula/tilix
+	url = git://github.com/dracula/tilix.git
 [submodule "tmux"]
 	path = tmux
-	url = git@github.com:dracula/tmux
+	url = git://github.com/dracula/tmux.git
 [submodule "total-commander"]
 	path = total-commander
-	url = git@github.com:dracula/total-commander
+	url = git://github.com/dracula/total-commander.git
 [submodule "tower"]
 	path = tower
-	url = git@github.com:dracula/tower
+	url = git://github.com/dracula/tower.git
 [submodule "typora"]
 	path = typora
-	url = https://github.com/dracula/typora
+	url = git://github.com/dracula/typora.git
 [submodule "ulysses"]
 	path = ulysses
-	url = https://github.com/dracula/ulysses
+	url = git://github.com/dracula/ulysses.git
 [submodule "vim"]
 	path = vim
-	url = https://github.com/dracula/vim
+	url = git://github.com/dracula/vim.git
 [submodule "vimium"]
 	path = vimium
-	url = https://github.com/dracula/vimium
+	url = git://github.com/dracula/vimium.git
 [submodule "visual-studio"]
 	path = visual-studio
-	url = https://github.com/dracula/visual-studio
+	url = git://github.com/dracula/visual-studio.git
 [submodule "visual-studio-code"]
 	path = visual-studio-code
-	url = https://github.com/dracula/visual-studio-code
+	url = git://github.com/dracula/visual-studio-code.git
 [submodule "vivaldi"]
 	path = vivaldi
-	url = https://github.com/dracula/vivaldi
+	url = git://github.com/dracula/vivaldi.git
 [submodule "windows-terminal"]
 	path = windows-terminal
-	url = https://github.com/dracula/windows-terminal
+	url = git://github.com/dracula/windows-terminal.git
 [submodule "wing"]
 	path = wing
-	url = https://github.com/dracula/wing
+	url = git://github.com/dracula/wing.git
 [submodule "wordpress"]
 	path = wordpress
-	url = https://github.com/dracula/wordpress
+	url = git://github.com/dracula/wordpress.git
 [submodule "wox"]
 	path = wox
-	url = https://github.com/dracula/wox
+	url = git://github.com/dracula/wox.git
 [submodule "xchat"]
 	path = xchat
-	url = https://github.com/dracula/xchat
+	url = git://github.com/dracula/xchat.git
 [submodule "xcode"]
 	path = xcode
-	url = https://github.com/dracula/xcode
+	url = git://github.com/dracula/xcode.git
 [submodule "xresources"]
 	path = xresources
-	url = https://github.com/dracula/xresources
+	url = git://github.com/dracula/xresources.git
 [submodule "zsh"]
 	path = zsh
-	url = https://github.com/dracula/zsh
+	url = git://github.com/dracula/zsh.git
 [submodule "pywal"]
 	path = pywal
-	url = git@github.com:dracula/pywal
+	url = git://github.com/dracula/pywal.git
 [submodule "idle"]
 	path = idle
-	url = git@github.com:dracula/idle
+	url = git://github.com/dracula/idle.git
 [submodule "zathura"]
 	path = zathura
-	url = git@github.com:dracula/zathura
+	url = git://github.com/dracula/zathura.git
 [submodule "tiddlywiki"]
 	path = tiddlywiki
-	url = git@github.com:dracula/tiddlywiki
+	url = git://github.com/dracula/tiddlywiki.git
 [submodule "plank"]
 	path = plank
-	url = git@github.com:dracula/plank
+	url = git://github.com/dracula/plank.git
 [submodule "betterdiscord"]
 	path = betterdiscord
-	url = git@github.com:dracula/betterdiscord
+	url = git://github.com/dracula/betterdiscord.git
 [submodule "thelounge"]
 	path = thelounge
-	url = git@github.com:dracula/thelounge
+	url = git://github.com/dracula/thelounge.git
 [submodule "colorls"]
 	path = colorls
-	url = git@github.com:dracula/colorls
+	url = git://github.com/dracula/colorls.git
 [submodule "roam-research"]
 	path = roam-research
-	url = git@github.com:dracula/roam-research
+	url = git://github.com/dracula/roam-research.git
 [submodule "obsidian"]
 	path = obsidian
-	url = git@github.com:dracula/obsidian
+	url = git://github.com/dracula/obsidian.git
 [submodule "adminer"]
 	path = adminer
-	url = git@github.com:dracula/adminer
+	url = git://github.com/dracula/adminer.git
 [submodule "micro"]
 	path = micro
-	url = git@github.com:dracula/micro
+	url = git://github.com/dracula/micro.git
 [submodule "renoise"]
 	path = renoise
-	url = git@github.com:dracula/renoise
+	url = git://github.com/dracula/renoise.git
 [submodule "fman"]
 	path = fman
-	url = git@github.com:dracula/fman
+	url = git://github.com/dracula/fman.git
 [submodule "copyq"]
 	path = copyq
-	url = git@github.com:dracula/copyq
+	url = git://github.com/dracula/copyq.git
 [submodule "cryptowatch"]
 	path = cryptowatch
-	url = git@github.com:dracula/cryptowatch
+	url = git://github.com/dracula/cryptowatch.git
 [submodule "midnight-commander"]
 	path = midnight-commander
-	url = git@github.com:dracula/midnight-commander
+	url = git://github.com/dracula/midnight-commander.git
 [submodule "keypirinha"]
 	path = keypirinha
-	url = https://github.com/dracula/keypirinha.git
+	url = git://github.com/dracula/keypirinha.git.git
 [submodule "mousepad"]
 	path = mousepad
-	url = git@github.com:dracula/mousepad
+	url = git://github.com/dracula/mousepad.git
 [submodule "linear"]
 	path = linear
-	url = git@github.com:dracula/linear
+	url = git://github.com/dracula/linear.git
 [submodule "albert"]
 	path = albert
-	url = git@github.com:dracula/albert
+	url = git://github.com/dracula/albert.git
 [submodule "arduino-pro-ide"]
 	path = arduino-pro-ide
-	url = git@github.com:dracula/arduino-pro-ide
+	url = git://github.com/dracula/arduino-pro-ide.git
 [submodule "kicad"]
 	path = kicad
-	url = git@github.com:dracula/kicad
+	url = git://github.com/dracula/kicad.git
 [submodule "standard-notes"]
 	path = standard-notes
-	url = git@github.com:dracula/standard-notes
+	url = git://github.com/dracula/standard-notes.git
 [submodule "thunderbird"]
 	path = thunderbird
-	url = git@github.com:dracula/thunderbird
+	url = git://github.com/dracula/thunderbird.git
 [submodule "liteide"]
 	path = liteide
-	url = git@github.com:dracula/liteide
+	url = git://github.com/dracula/liteide.git
 [submodule "bashtop"]
 	path = bashtop
-	url = git@github.com:dracula/bashtop
+	url = git://github.com/dracula/bashtop.git
 [submodule "logseq"]
 	path = logseq
-	url = git@github.com:dracula/logseq
+	url = git://github.com/dracula/logseq.git
 [submodule "qt5"]
 	path = qt5
-	url = git@github.com:dracula/qt5
+	url = git://github.com/dracula/qt5.git
 [submodule "terminator"]
 	path = terminator
-	url = git@github.com:dracula/terminator
+	url = git://github.com/dracula/terminator.git
 [submodule "telegram-ios"]
 	path = telegram-ios
-	url = git@github.com:dracula/telegram-ios
+	url = git://github.com/dracula/telegram-ios.git
 [submodule "ida"]
 	path = ida
-	url = git@github.com:dracula/ida
+	url = git://github.com/dracula/ida.git
 [submodule "netbeans"]
 	path = netbeans
-	url = git@github.com:dracula/netbeans
+	url = git://github.com/dracula/netbeans.git
 [submodule "xournalpp"]
 	path = xournalpp
-	url = git@github.com:dracula/xournalpp
+	url = git://github.com/dracula/xournalpp.git
 [submodule "ditto"]
 	path = ditto
-	url = git@github.com:dracula/ditto
+	url = git://github.com/dracula/ditto.git
 [submodule "matplotlib"]
 	path = matplotlib
-	url = git@github.com:dracula/matplotlib
+	url = git://github.com/dracula/matplotlib.git
 [submodule "nova"]
 	path = nova
-	url = git@github.com:dracula/nova
+	url = git://github.com/dracula/nova.git
 [submodule "tty"]
 	path = tty
-	url = git@github.com:dracula/tty
+	url = git://github.com/dracula/tty.git
 [submodule "libreoffice"]
 	path = libreoffice
-	url = git@github.com:dracula/libreoffice
+	url = git://github.com/dracula/libreoffice.git
 [submodule "vivado"]
 	path = vivado
-	url = git@github.com:dracula/vivado
+	url = git://github.com/dracula/vivado.git
 [submodule "everythingtoolbar"]
 	path = everythingtoolbar
-	url = git@github.com:dracula/everythingtoolbar
+	url = git://github.com/dracula/everythingtoolbar.git
 [submodule "xfce4-terminal"]
 	path = xfce4-terminal
-	url = git@github.com:dracula/xfce4-terminal
+	url = git://github.com/dracula/xfce4-terminal.git
